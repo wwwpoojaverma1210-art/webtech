@@ -4,6 +4,8 @@ A simple and clean menu-driven To-Do List application built using Core Java.
 This project demonstrates user input handling, ArrayList operations, and console UI design.
 
 
+---
+
 🔰 Features
 
 ➕ Add Task
@@ -15,6 +17,9 @@ This project demonstrates user input handling, ArrayList operations, and console
 🚪 Exit the program safely
 
 
+
+---
+
 🎮 How the Program Looks
 
 To-Do List App
@@ -24,6 +29,8 @@ To-Do List App
 4. Exit
 Enter your choice:
 
+
+---
 
 🛠️ Tech Stack
 
@@ -35,6 +42,10 @@ Scanner	Handles user input
 OOP Concepts	Basic structure of the program
 
 
+
+
+---
+
 🚀 How to Run
 
 # Compile
@@ -43,6 +54,8 @@ javac Main.java
 # Run
 java Main
 
+
+---
 
 📘 Sample Interaction
 
@@ -54,6 +67,8 @@ Enter your choice: 2
 Your Tasks:
 1. Submit assignment
 
+
+---
 
 🧩 Key Concepts Used
 
